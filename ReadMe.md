@@ -1,9 +1,15 @@
 
+   
+
+
     cd backend/
     yarn install 
+
+     database note include, run: 
+    npx knex migrate:latest
     yarn start
 
-
+    
     cd frontend/
     yarn install
     yarn start
