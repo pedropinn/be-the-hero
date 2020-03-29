@@ -9,7 +9,11 @@
     yarn start
     
 
-    Using Expo
-    cd mobile/
+    
+    change './mobile/services/api.js' @ BaseURL with ip local
+    
+    cd ./mobile
     yarn install
     yarn start
+    
+    View app with expo. 
