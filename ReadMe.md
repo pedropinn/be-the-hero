@@ -11,4 +11,5 @@
 
     Using Expo
     cd mobile/
+    yarn install
     yarn start
