@@ -12,7 +12,7 @@
     yarn start
     
     
-    change './mobile/services/api.js' @ BaseURL with local ip
+    change './mobile/services/api.js' @ BaseURL with your local ip
     
     cd ./mobile
     yarn install
