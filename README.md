@@ -2,12 +2,12 @@
    
 
 
-    cd backend/
+    cd ./backend
     yarn install 
     yarn start
 
     
-    cd frontend/
+    cd ./frontend
     yarn install
     yarn start
     
