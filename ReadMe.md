@@ -4,9 +4,6 @@
 
     cd backend/
     yarn install 
-
-     database note include, run: 
-    npx knex migrate:latest
     yarn start
 
     
@@ -14,9 +11,8 @@
     yarn install
     yarn start
     
-
     
-    change './mobile/services/api.js' @ BaseURL with ip local
+    change './mobile/services/api.js' @ BaseURL with local ip
     
     cd ./mobile
     yarn install
